@@ -1,0 +1,7 @@
+wheel
+cx-Oracle
+requests
+lxml
+selenium
+configparser
+apscheduler
